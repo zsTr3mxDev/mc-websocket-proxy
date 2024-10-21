@@ -1,2 +1,2 @@
 # MCWS Proxy
-A proxy to connect javascript mnecraft clients to servers.
+Web socket proxy that handles the communication between a javascript-side Minecraft client to a java Minecraft server.
